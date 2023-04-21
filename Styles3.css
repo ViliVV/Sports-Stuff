@@ -1,0 +1,41 @@
+body {
+    background:rgb(55, 100, 136)
+}
+header{
+    background: yellow;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px;
+}
+h3{
+    text-align: center;
+    
+}
+.MW{
+    border: 2px solid black;
+    width: 1000px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: square;
+    font-size: x-large;
+    background-color: rgb(99, 185, 255);
+}
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.copy{
+    background: black;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+}

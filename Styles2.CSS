@@ -1,0 +1,50 @@
+body {
+    background:rgb(99, 185, 255)
+}
+header{
+    background: yellow;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px;
+}
+h1{
+    background-color: rgb(99, 185, 255);
+    text-align: center;
+}
+ul{
+    list-style-type: square;
+    font-size: x-large;
+    background-color: rgb(99, 185, 255);
+}
+
+.copy{
+    background: black;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+}
+
+.photos img {
+    width: 15%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    background-color: rgb(99, 185, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
